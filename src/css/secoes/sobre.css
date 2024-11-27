@@ -18,11 +18,13 @@
 .sobre-mim .informacoes-sobre-mim {    
     max-width: 60%;
     padding: 0 25px;   
-    align-self: center; 
+    align-self: center;
+    text-align: justify; 
 }
 
 .sobre-mim .informacoes-sobre-mim .botoes {
     margin-top: 50px;
+    text-align: center;
 }
 
 .sobre-mim .informacoes-sobre-mim p {
@@ -45,6 +47,7 @@
     .sobre-mim .informacoes-sobre-mim {  
         padding: 0 var(--mobile-padding);
         text-align: center;
+        text-align: justify;
     }
 
     .sobre-mim .imagem-sobre-mim .inner-shadow {
